@@ -1,6 +1,6 @@
 # Lobjects
 
-A series of Max externals to manipulate lists, refactored from originals by Peter Elsea.
+> A series of Max externals to manipulate lists, refactored from originals by Peter Elsea.
 
 Main differences:
 
